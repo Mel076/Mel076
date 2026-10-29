@@ -1,13 +1,8 @@
-<div align="center">
-  <h1>Hi, I'm Melly! ♡</h1>
-  <p><em>Just a girl with a soft spot for code, creative ideas, and cute details.</em></p>
-  <p>A little game scripting, a little web magic ✿</p>
-  <p>
-    <a href="https://mel76.straw.page">
-      <img src="https://img.shields.io/badge/୨୧%20my%20little%20corner-visit-ff8fab?style=for-the-badge" alt="Visit my website" />
-    </a>
-  </p>
-</div>
+### Hi, I'm Melly! ♡
+
+Just a girl with a soft spot for code, creative ideas, and cute details. A little game scripting, a little web magic ✿
+
+[୨୧ Visit my little corner](https://mel76.straw.page)
 
 ---
 
@@ -21,15 +16,15 @@ I love exploring how software can bring ideas to life — from game scripting to
 - **REST APIs** and the systems behind web projects
 - Game scripting with **Pawn**
 
-### 🎀 Languages
+### 🎀 Languages & tools
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Pawn-Game_scripting-c8a2c8?style=for-the-badge" alt="Pawn" />
   <img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-Typed_JavaScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C%23" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<div align="center">
-  <sub>Made with curiosity, caffeine & a little sparkle ♡</sub>
-</div>
+♡ Made with curiosity and a little sparkle.
