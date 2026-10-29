@@ -15,7 +15,7 @@
 
 - **Languages:** C++, Pawn, TypeScript
 - **Building:** Frontend interfaces, REST APIs, and single-page applications
-- **Portfolio:** [mel76.straw.page](https://mel76.straw.page)
+- **My website:** [mel76.straw.page](https://mel76.straw.page)
 
 ### The toolkit
 
