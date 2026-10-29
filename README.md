@@ -27,4 +27,11 @@ I love exploring how software can bring ideas to life — from game scripting to
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+### ୨ৎ Little things I love
+
+- Strawberry milk 🍓🥛
+- Cute Sanrio stickers ୨ৎ
+- Gatekeeping my Pawn includes lol
+- Currently playing: **COOOK PARDON — Lvbel C5 & AKDO** 🎧
+
 ♡ Made with curiosity and a little sparkle.
